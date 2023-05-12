@@ -1,6 +1,13 @@
 # Jungle
 
 Jungle is a mini e-commerce application built with Ruby and Rails. Users can browse through the catalog of plants and add them to the cart.
+
+## Final Product
+
+!["Catalog"](https://github.com/Justin0248/jungle-rails/blob/master/docs/Catalog.png?raw=true)
+!["Item description"](https://github.com/Justin0248/jungle-rails/blob/master/docs/Item_description.png?raw=true)
+!["Cart"](https://github.com/Justin0248/jungle-rails/blob/master/docs/Cart.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
